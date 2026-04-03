@@ -1,0 +1,30 @@
+{
+    "name": "ION",
+    "short_name": "o",
+    "lang": "en-US",
+    "description": "ooo",
+    "categories": [
+        "productivity"
+    ],
+    "id": "/",
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "natural",
+    "theme_color": "#fff",
+    "background_color": "white",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "/favicon.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
